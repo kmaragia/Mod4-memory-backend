@@ -15,3 +15,4 @@ card5 = Card.create(card_image:"https://i.imgur.com/a25NZFa.jpg")
 card6 = Card.create(card_image:"https://i.imgur.com/yJixmxW.jpg")
 card7 = Card.create(card_image:"https://i.imgur.com/hq8nbWc.jpg")
 card8 = Card.create(card_image:"https://i.imgur.com/S7lojQF.jpg")
+
