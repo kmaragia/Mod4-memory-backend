@@ -5,3 +5,13 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+
+card1 = Card.create(card_image:"https://i.imgur.com/nJomRpY.jpg")
+card2 = Card.create(card_image:"https://i.imgur.com/ydJDg9a.jpg")
+card3 = Card.create(card_image:"https://i.imgur.com/eOsUJfm.jpg")
+card4 = Card.create(card_image:"https://i.imgur.com/wCnslyh.jpg")
+card5 = Card.create(card_image:"https://i.imgur.com/a25NZFa.jpg")
+card6 = Card.create(card_image:"https://i.imgur.com/yJixmxW.jpg")
+card7 = Card.create(card_image:"https://i.imgur.com/hq8nbWc.jpg")
+card8 = Card.create(card_image:"https://i.imgur.com/S7lojQF.jpg")
