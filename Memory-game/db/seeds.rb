@@ -7,12 +7,12 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
-card1 = Card.create(card_image:"https://imgur.com/4bMjr4Z")
-card2 = Card.create(card_image:"https://imgur.com/adfVNEO")
-card3 = Card.create(card_image:"https://imgur.com/IQJPv4q")
-card4 = Card.create(card_image:"https://imgur.com/ASZopXI")
-card5 = Card.create(card_image:"https://imgur.com/nIn1foD")
-card6 = Card.create(card_image:"https://imgur.com/y29jI62")
-card7 = Card.create(card_image:"https://imgur.com/wl35D0m")
-card8 = Card.create(card_image:"https://imgur.com/CvSUbkv")
+card1 = Card.create(card_image:"https://i.imgur.com/4bMjr4Z.jpg")
+card2 = Card.create(card_image:"https://i.imgur.com/adfVNEO.jpg")
+card3 = Card.create(card_image:"https://i.imgur.com/IQJPv4q.jpg")
+card4 = Card.create(card_image:"https://i.imgur.com/ASZopXI.jpg")
+card5 = Card.create(card_image:"https://i.imgur.com/nIn1foD.jpg")
+card6 = Card.create(card_image:"https://i.imgur.com/y29jI62.jpg")
+card7 = Card.create(card_image:"https://i.imgur.com/wl35D0m.jpg")
+card8 = Card.create(card_image:"https://i.imgur.com/CvSUbkv.jpg")
 
