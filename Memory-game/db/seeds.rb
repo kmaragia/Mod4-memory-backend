@@ -7,12 +7,11 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
-card1 = Card.create(card_image:"https://i.imgur.com/nJomRpY.jpg")
-card2 = Card.create(card_image:"https://i.imgur.com/ydJDg9a.jpg")
-card3 = Card.create(card_image:"https://i.imgur.com/eOsUJfm.jpg")
-card4 = Card.create(card_image:"https://i.imgur.com/wCnslyh.jpg")
-card5 = Card.create(card_image:"https://i.imgur.com/a25NZFa.jpg")
-card6 = Card.create(card_image:"https://i.imgur.com/yJixmxW.jpg")
-card7 = Card.create(card_image:"https://i.imgur.com/hq8nbWc.jpg")
-card8 = Card.create(card_image:"https://i.imgur.com/S7lojQF.jpg")
-
+card1 = Card.create(card_image:"https://i.imgur.com/4bMjr4Z.jpg",level:2)
+card2 = Card.create(card_image:"https://i.imgur.com/adfVNEO.jpg",level:2)
+card3 = Card.create(card_image:"https://i.imgur.com/IQJPv4q.jpg",level:2)
+card4 = Card.create(card_image:"https://i.imgur.com/ASZopXI.jpg",level:2)
+card5 = Card.create(card_image:"https://i.imgur.com/nIn1foD.jpg",level:2)
+card6 = Card.create(card_image:"https://i.imgur.com/y29jI62.jpg",level:2)
+card7 = Card.create(card_image:"https://i.imgur.com/wl35D0m.jpg",level:2)
+card8 = Card.create(card_image:"https://i.imgur.com/CvSUbkv.jpg",level:2)

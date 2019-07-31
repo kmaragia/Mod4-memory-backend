@@ -17,6 +17,7 @@ ActiveRecord::Schema.define(version: 2019_07_26_140215) do
 
   create_table "cards", force: :cascade do |t|
     t.string "card_image"
+    t.integer "level"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
