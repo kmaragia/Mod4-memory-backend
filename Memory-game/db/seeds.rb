@@ -7,6 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
+
 card1 = Card.create(card_image:"https://i.imgur.com/4bMjr4Z.jpg",level:2)
 card2 = Card.create(card_image:"https://i.imgur.com/adfVNEO.jpg",level:2)
 card3 = Card.create(card_image:"https://i.imgur.com/IQJPv4q.jpg",level:2)
